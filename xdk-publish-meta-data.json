@@ -1,0 +1,41 @@
+{
+  "categorization": {
+    "type": "APPLICATION",
+    "category": "Alarms & Clocks"
+  },
+  "description": {
+    "texts": {
+      "title": "tes",
+      "features": [
+        "tes"
+      ],
+      "short-description": "tes",
+      "full-description": "tes ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates ajates aja",
+      "keywords": "tes",
+      "recent-changes": "tes aja",
+      "privacy-policy": "",
+      "eula": ""
+    },
+    "images": {
+      "screenshots": [],
+      "app-icon-small": "",
+      "app-icon": "",
+      "small-promo": "",
+      "large-promo": ""
+    },
+    "videos": {
+      "video-url": ""
+    }
+  },
+  "packages": {
+    "apk-file": "",
+    "zip-xdk-compliant": false,
+    "zip-file": "",
+    "secondary-apk-file": ""
+  },
+  "support": {
+    "email": "ilhamadi096@gmail.com",
+    "website": "http://www.ilhamadipanuntun.com"
+  },
+  "testing-instructions": "tes"
+}
